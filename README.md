@@ -330,18 +330,6 @@ This project meets all requirements:
 
 ---
 
-## 👤 Author
-
-**AI Intern Candidate**  
-Assignment for: Kalpit Pvt Ltd, UK  
-Contact: [kalpiksingh2005@gmail.com](mailto:kalpiksingh2005@gmail.com)
-
----
-
-## 📄 License
-
-This project is created for educational and evaluation purposes as part of an internship assignment.
-
 ---
 
 ## 🙏 Acknowledgments
@@ -363,7 +351,6 @@ If you encounter any issues:
 3. Verify Ollama is running: `ollama list`
 4. Check Python version: `python --version` (needs 3.8+)
 
-For assignment-related queries, contact: kalpiksingh2005@gmail.com
 
 ---
 
