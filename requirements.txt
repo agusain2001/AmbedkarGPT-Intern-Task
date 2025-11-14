@@ -1,4 +1,18 @@
-langchain
-langchain-community
-chromadb
-sentence-transformers
+# Core LangChain Framework
+# Used for orchestrating the RAG pipeline
+langchain>=0.1.0,<0.2.0
+langchain-community>=0.0.20,<0.1.0
+
+# Vector Database
+# ChromaDB for local vector storage (no cloud, no API keys)
+chromadb>=0.4.22,<0.5.0
+
+# Embeddings Model
+# HuggingFace sentence-transformers for text embeddings
+# Downloads and runs locally (first run will download ~80MB model)
+sentence-transformers>=2.2.2,<3.0.0
+
+# Core Dependencies
+# Required by LangChain for proper functionality
+pydantic>=2.0.0,<3.0.0
+typing-extensions>=4.9.0
